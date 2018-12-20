@@ -1,3 +1,1 @@
-[HOME](HOME)
-
 [Abkürzungen](Abkuerzungen)
