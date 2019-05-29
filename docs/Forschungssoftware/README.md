@@ -24,6 +24,10 @@ This is where we collect repositories that capture software.
 - AU:
 - NL:
 
+# Working Groups
+
+- [Force 11: Software Citation Implementation Working Group](https://www.force11.org/group/software-citation-implementation-working-group)
+
 # National Initiatives
 
 - DE:
