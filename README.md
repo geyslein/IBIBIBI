@@ -11,13 +11,13 @@ The content of this collection on a github-page: [https://geyslein.github.io/IBI
  
 --------------------------------------------------------------------------------
  
-# Contributing
+## Contributing
  
 Wanna contribute to this collection of library resources? See [Contributing](./CONTRIBUTING.md).
  
 --------------------------------------------------------------------------------
  
-# Copyright and Licence
+## Copyright and Licence
  
 Copyright (c) 2018-2019, Ronny Gey
  
@@ -27,10 +27,10 @@ For full details, see [LICENCE](./LICENCE.md).
  
 --------------------------------------------------------------------------------
  
-# Acknowledgements
+## Acknowledgements
  
 This work was part of my traineeship at Leipzig University Library and, thus, is financed by the German State of Saxony.
  
-# Repo Status
+## Repo Status
 
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
