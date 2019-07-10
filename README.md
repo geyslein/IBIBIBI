@@ -7,7 +7,9 @@ The content of this collection on a github-page: [https://geyslein.github.io/IBI
 
 ## Published versions
  
-- Leipzig University Library. (2018). Software Name. v1.0\. doi:[...](https://doi.org/...)
+- Ronny Gey. (2019). IBIBIBI, v0.1. [![DOI](https://zenodo.org/badge/162551543.svg)](https://zenodo.org/badge/latestdoi/162551543)
+
+
  
 --------------------------------------------------------------------------------
  
