@@ -26,6 +26,12 @@ Copyright (c) 2018-2019, Ronny Gey
 For full details, see [LICENCE](./LICENCE.md).
  
 --------------------------------------------------------------------------------
+
+## Code of Conduct
+
+See [Code of Conduct](./CODE_OF_CONDUCT.md)
+
+--------------------------------------------------------------------------------
  
 ## Acknowledgements
  
