@@ -1,3 +1,5 @@
+# Contributing
+
 For major suggestions or comments about the documentation:
 
   1\. Check that an existing issue has not already been created that may cover the scope of your suggestion or comment.
