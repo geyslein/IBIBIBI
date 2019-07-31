@@ -6,10 +6,8 @@ The content of this collection on a github-page: [https://geyslein.github.io/IBI
 
 
 ## Published versions
- 
-- Ronny Gey. (2019). IBIBIBI, v0.1. [![DOI](https://zenodo.org/badge/162551543.svg)](https://zenodo.org/badge/latestdoi/162551543)
 
-
+...
  
 --------------------------------------------------------------------------------
  
