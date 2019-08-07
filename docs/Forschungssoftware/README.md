@@ -1,6 +1,6 @@
 # Introduction
 
-In this list, I collect relevant information around the subject _Research Software_ and _Research Software Engineering_. ...
+In this list, I collect relevant information around the subject _Research Software_ and _Research Software Engineering_.
 
 # Literature
 
@@ -22,19 +22,25 @@ This is where we collect repositories that capture software.
 - CFF - Citation File Format: <https://citation-file-format.github.io/>
 - CodeMeta: <https://codemeta.github.io/>
 - DOAP - Description Of A Project: <https://github.com/ewilderj/doap>
+- CiteAs: <http://citeas.org/>
 
 # Search Engines
 
 - BASE: [Document type = Software](https://www.base-search.net/Search/Results?type=all&lookfor=doctype%3A6&ling=0&oaboost=1&name=&thes=&refid=dcresen&newsearch=1)
 - WorldWideScience: [Results Tab: Data/Software](https://worldwidescience.org/)
 
+# RSE Associations
+
+- AU/NZ: <https://rse-aunz.github.io/>
+- DE: <https://www.de-rse.org/>
+- Scandinavia: <http://nordic-rse.org/>
+- UK: <https://rse.ac.uk/>
+- USA: <https://us-rse.org/>
+
 # Software Sustainability Institutes
 
 - UK: <https://www.software.ac.uk/>
-- USA: <https://us-rse.org/>
-- AU:
 - NL: <https://www.esciencecenter.nl/>
-- Scandinavia: <http://nordic-rse.org/>
 - Global: <http://www.researchsoft.org>
 
 # Working Groups
