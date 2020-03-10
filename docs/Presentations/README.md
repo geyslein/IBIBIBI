@@ -1,1 +1,1 @@
-[2020 04 25 oss für Sozialwissenschaftler*innen](https://github.com/geyslein/IBIBIBI/blob/master/docs/Presentations/20200423_OSS%20f%C3%BCr%20Sozialwiss.html)
+[2020 04 25 oss für Sozialwissenschaftler*innen](20200423_OSS für Sozialwiss.md)
