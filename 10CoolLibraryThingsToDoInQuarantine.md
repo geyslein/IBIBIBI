@@ -6,9 +6,11 @@ Here we are: Corona. The library will remain closed. No more users in the buildi
 
 https://github.com/sindresorhus/awesome
 
+And hey, there is even an [awesome library](https://github.com/ubleipzig/awesome-library) list that waits for improvements.
+
 ## 2 Openscience Mooc
 
-https://opensciencemooc.eu/
+That's an easy one. The [Openscience MOOC](https://opensciencemooc.eu/) [Open Principles](https://opensciencemooc.eu/modules/open-principles/) and [Open Research Software and Open Source](https://opensciencemooc.eu/modules/open-research-software-and-open-source/).
 
 ## 3 Make or enhance a Wikipedia Entry
 
@@ -24,7 +26,7 @@ https://commons.wikimedia.org/wiki/Main_Page
 
 ## 6 Library Carpentry Lessons
 
-https://librarycarpentry.org/
+Well, you probably expected this one to be first on the list. Actually, it was too obvious to put it on number one. [Library Carpentry](https://librarycarpentry.org/)
 
 
 ## 7 GitHub/GitLab Account
@@ -34,12 +36,13 @@ https://about.gitlab.com/
 
 ## 8 Play around with Linux
 
+Playing around always sounds like fun.
 https://www.techradar.com/best/best-linux-distros
 https://distrowatch.com/
 
 
 ## 9 Annif
 
-http://annif.org/
+[Annif](http://annif.org/) is a 
 
 ## 10 
