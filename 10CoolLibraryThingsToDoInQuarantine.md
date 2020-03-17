@@ -4,15 +4,14 @@ Here we are: Corona. The library will remain closed. No more users in the buildi
 
 ## 1 Awesome Lists
 
-...since you are already here on github we want to start with [awesome lists](https://github.com/sindresorhus/awesome) att . Awesome lists include collections of links to __awesome__ projects and __awesome__ websites on a specific topic. On the awesome lists overview page on GitHub there are awesome lists for programming languages, content management systems, 
-
-And hey, there is even an [awesome library](https://github.com/ubleipzig/awesome-library) list that waits for improvements.
+...since you are already here on GitHub we want to start with GitHubs [awesome lists](https://github.com/sindresorhus/awesome). Awesome lists include collections of links to __awesome__ projects and __awesome__ websites on a specific topic. On the awesome lists overview page on GitHub there are awesome lists e.g. for programming languages, content management systems, higher education, platforms, front-end or back-end development, learning (e.g. [Learn to programm](https://github.com/karlhorky/learn-to-program#readme) or [programming for kids](https://github.com/HollyAdele/awesome-programming-for-kids#readme)) or Big Data. So whatever you want to learn or study (with an emphasis on techie things) probably you will find an awesome list on this topic. And hey, there is even an [awesome library](https://github.com/ubleipzig/awesome-library) list that waits for being read and improved.
 
 ## 2 Openscience Mooc
 
 That's an easy one. The [Openscience MOOC](https://opensciencemooc.eu/) [Open Principles](https://opensciencemooc.eu/modules/open-principles/) and [Open Research Software and Open Source](https://opensciencemooc.eu/modules/open-research-software-and-open-source/).
 
 ## 3 Make or enhance a Wikipedia Entry
+
 
 https://de.wikipedia.org/w/index.php?title=Spezial:Benutzerkonto_anlegen&uselang=en&returnto=Wikipedia%3AHauptseite&returntoquery=
 
@@ -26,10 +25,11 @@ https://commons.wikimedia.org/wiki/Main_Page
 
 ## 6 Library Carpentry Lessons
 
-Well, you probably expected this one to be first on the list. Actually, it was too obvious to put it on number one. [Library Carpentry](https://librarycarpentry.org/)
-
+Well, you probably expected this one to be first on the list. Actually, it was too obvious to put it on number one. [Library Carpentry](https://librarycarpentry.org/) offers courses on software and data skills within library and information-related communities. You will find courses about [working with data](https://librarycarpentry.org/lc-data-intro/), introduction to [Unix Shell](https://librarycarpentry.org/lc-shell/), [OpenRefine](https://librarycarpentry.org/lc-open-refine/), [Git](https://librarycarpentry.org/lc-git/), [SQL](https://librarycarpentry.org/lc-sql/), [Python](https://librarycarpentry.org/lc-python-intro/) and more. So, hey, now is finally the time to become a python professional.
 
 ## 7 GitHub/GitLab Account
+
+Since you're here on GitHub now anyway, it's time to [create your own Git account](https://github.com/join) and start collaborating in your favourite open source projects. You don't have to be a programming pro to join an open source project. There is a lot to do besides programming. You could write, correct or translate website texts. 
 
 https://about.gitlab.com/
 
@@ -45,3 +45,5 @@ Playing around always sounds like fun. Probably this one has been on your list f
 ## 10 SciHub
 
 So yeah, this is a dirty one. Since now you are at home and no one spies around you, you can finally try it. The one and only search engine for license freed scientific articles, [SciHub](https://sci-hub.se/). Look around and feel the beauty of unlimited and instant access. If it happens (what happens) that the link to the website is broken, just try another top level domain like .si, .tw or .tp (see <https://sci-hub.now.sh/> for updated links). 
+
+
