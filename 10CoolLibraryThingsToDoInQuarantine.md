@@ -19,12 +19,11 @@ https://de.wikipedia.org/w/index.php?title=Spezial:Benutzerkonto_anlegen&uselang
 
 The same counts for Wikidata. Wikidata is a free and open knowledge base and acts as central storage for e.g. Wikipedia. [Grab an account](https://www.wikidata.org/w/index.php?title=Special:CreateAccount&returnto=Wikidata%3AMain+Page) and start working. First, [check if an item already exists](https://www.wikidata.org/wiki/Special:Search), if not then [create it](https://www.wikidata.org/wiki/Special:NewItem). 
 
-## 5 Wikicommons
+## 5 Wikimedia Commons
 
+This is one is for you photographers, movie makers or sound engineers out there. [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) is the world’s largest free-to-use library of illustrations, photos, drawings, videos, and music. You can e.g. geo-tag your pictures or add it to Wikipedia articles if you like. 
 
-https://commons.wikimedia.org/wiki/Main_Page
-
-You should also have a look on the other [Wikimedia projects](https://wikimediafoundation.org/our-work/wikimedia-projects/)
+You should also have a look on the other [Wikimedia projects](https://wikimediafoundation.org/our-work/wikimedia-projects/).
 
 ## 6 Library Carpentry Lessons
 
