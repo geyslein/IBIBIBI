@@ -8,7 +8,7 @@ Here we are: Corona. The library will remain closed. No more users in the buildi
 
 ## 2 Openscience Mooc
 
-That's an easy one. The [Openscience MOOC](https://opensciencemooc.eu/) offers courses [Open Principles](https://opensciencemooc.eu/modules/open-principles/) and [Open Research Software and Open Source](https://opensciencemooc.eu/modules/open-research-software-and-open-source/).
+That's an easy one. The [Openscience MOOC](https://opensciencemooc.eu/) offers courses to differen open science relevant topics. They are created collaboratively using GitHub (see #7). The courses on [Open Principles](https://opensciencemooc.eu/modules/open-principles/) and [Open Research Software and Open Source](https://opensciencemooc.eu/modules/open-research-software-and-open-source/) are already online. And hey, once you finished each course you are even rewarded a nice certificate of participation which you can stick to your workplace or send to your boss when the next job negotiations are around the corner.
 
 ## 3 Make or enhance a Wikipedia Entry
 
