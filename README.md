@@ -23,7 +23,7 @@ Copyright (c) 2018-2019, Ronny Gey
  
 - Documentation: Creative Commons Attribution 4.0 International
  
-For full details, see [LICENCE](./LICENCE.md).
+For full details, see [LICENSE](./LICENSE.md).
  
 --------------------------------------------------------------------------------
 
